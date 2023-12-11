@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @SaienkoYaroslav, 30 yo, Ukraine, Kyiv
+- 👋 Hi, I’m @SaienkoYaroslav, 31 yo, Ukraine, Kyiv
 - 👀 I’m interested in android dev
 - 🌱 I’m currently learning android, java, kotlin, english
-- 💞️ I’m looking to collaborate on somebody
 - 📫 How to reach me: saienko.yaroslav01@gmail.com
 
 <!---
