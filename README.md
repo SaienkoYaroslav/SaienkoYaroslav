@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaienkoYaroslav, 32 yo, Ukraine, Kyiv
-- 👀 I have been studying Android development for 4 years. I have 2 years of commercial experience at 2 companies. I worked both in-office and remotely. I have experience with Jira, Slack, Figma, Trello, etc. I started learning Android with JAVA, transitioned to Kotlin in 2022, and I am working with Compose now. I understand the development process and can communicate with other departments to achieve results. I have been continuously learning new technologies. I believe no task that cannot be accomplished. I am looking for a company where my skills will be useful and where I can continue to grow as a specialist to contribute to the future.
+- 👀 I’m an Android Developer with 2 year of commercial experience and a solid foundation in both Java and Kotlin. I’ve worked in both office and remote teams, building and maintaining production-level apps using modern tools like Jetpack Compose, Room, and Hilt. I take ownership of my work, communicate well across teams, and constantly seek to improve my skills. I'm looking for a company where I can bring value, grow professionally, and contribute to building high-quality mobile products.
 - 📫 How to reach me: saienko.yaroslav01@gmail.com
 
 <!---
